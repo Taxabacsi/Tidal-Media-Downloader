@@ -20,7 +20,7 @@ class Settings(aigpy.model.ModelBase):
     checkExist = True
     includeEP = True
     saveCovers = True
-    language = 0
+    language = 11
     lyricFile = False
     apiKeyIndex = 0
     showProgress = True
